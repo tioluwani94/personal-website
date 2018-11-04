@@ -150,6 +150,16 @@ body {
   color: #617085;
 }
 
+.section__portfolio__footer p {
+  padding-top: 48px;
+  font-size: 24px;
+  color: #333
+}
+
+.section__portfolio__footer p > a {
+  color: #f03454;
+}
+
 @media screen and (min-width: 600px) {
   .section__portfolio-section {
     display: flex;
